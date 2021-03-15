@@ -23,7 +23,7 @@
 			<th>글쓴이</th>
 		</tr>
 		<tr>
-			<%-- EL로 데이터 포혀표 --%>
+			<%-- EL로 데이터 표현 --%>
 			<th>${board.bno}</th>
 			<th>${board.btitle}</th>
 			<th>${board.bcontent}</th>

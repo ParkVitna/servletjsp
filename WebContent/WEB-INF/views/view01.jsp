@@ -1,7 +1,7 @@
 <%-- page 지시자 --%>
 <%@ page contentType="text/html; charset=UTF-8"%>
 
-<%-- 텦플릿 --%>
+<%-- 템플릿 --%>
 <!DOCTYPE html>
 <html>
 <head>
