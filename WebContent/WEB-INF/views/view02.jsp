@@ -9,11 +9,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h5>view01.jsp</h5>
+	<h5>view02.jsp</h5>
 	<hr/>
 	<%-- 스크립트릿(Scriptlet) --%>
 	<%
-	String name = "홍길동";
+	String name = "홍자바";
 	%>
 	
 	<%-- 표현식(Expressions) --%>
